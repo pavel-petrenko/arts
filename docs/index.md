@@ -1,6 +1,6 @@
 # Useful Links 
 
-> Just list of useful links and other chortcuts
+> Just list of useful links and other shortcuts
 
 ## GitHub Repo:
 - [https://github.com/pavel-petrenko/arts](https://github.com/pavel-petrenko/arts)
