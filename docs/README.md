@@ -1,3 +1,10 @@
+```yaml
+---
+layout: default
+title: ""
+---
+```
+
 # Links to [https://github.com/pavel-petrenko/arts](https://github.com/pavel-petrenko/arts)
 
 > Just list of useful links and other chortcuts
