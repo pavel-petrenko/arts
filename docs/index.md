@@ -8,8 +8,9 @@
 # ARTS &amp; Artorks
 
 ## GitHub site 
-- [//pavel-petrenko.github.io/arts/](https://pavel-petrenko.github.io/arts/)
-- [//aka.ms/arts/](https://aka.ms/arts/)
+- [https://pavel-petrenko.github.io/arts/](https://pavel-petrenko.github.io/arts/)
+- [https://arts.znak.club/](https://arts.znak.club/)
+- [https://aka.ms/arts/](https://aka.ms/arts/)
 
 
 ## Google site 
