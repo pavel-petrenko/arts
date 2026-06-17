@@ -16,3 +16,6 @@
 
 ## Etsy Shop
 - [https://MysteryDreamsStudio.etsy.com](https://mysterydreamsstudio.etsy.com)
+
+## GoFundMe 
+- [https://gofund.me/ae0f060bf](https://gofund.me/ae0f060bf)
