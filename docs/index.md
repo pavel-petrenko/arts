@@ -15,6 +15,6 @@
 
 ## Google site 
 - [Mystery Dreams Studio (MDS)](https://sites.google.com/view/seattle-art)
-- [//art.znak.club/](https://art.znak.club)
+- [https://art.znak.club/](https://art.znak.club)
 
 
