@@ -18,3 +18,6 @@
 - [https://gofund.me/ae0f060bf](https://gofund.me/ae0f060bf)
 
 ![QR Code with link to https://gofund.me/ae0f060bf](https://arts.znak.club/QR_Code_for_gofund.me__.svg)
+
+
+QR_Code_for__kickstarter__.svg
