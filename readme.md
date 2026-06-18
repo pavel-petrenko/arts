@@ -19,3 +19,6 @@
 
 ## GoFundMe 
 - [https://gofund.me/ae0f060bf](https://gofund.me/ae0f060bf)
+
+## KickStarter
+- [https://www.kickstarter.com/profile/znak](https://www.kickstarter.com/profile/znak)
