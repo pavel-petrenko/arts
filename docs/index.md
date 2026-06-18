@@ -20,4 +20,7 @@
 ![QR Code with link to https://gofund.me/ae0f060bf](https://arts.znak.club/QR_Code_for_gofund.me__.svg)
 
 
-QR_Code_for__kickstarter__.svg
+## KickStarter
+- [https://www.kickstarter.com/profile/znak/](https://www.kickstarter.com/profile/znak/)
+
+![QR Code with link to https://www.kickstarter.com/profile/znak/](https://arts.znak.club/QR_Code_for__kickstarter__.svg)
