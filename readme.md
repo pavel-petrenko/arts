@@ -23,5 +23,8 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 ### GoFundMe 
 - [https://gofund.me/ae0f060bf](https://gofund.me/ae0f060bf)
 
+### Indiegogo
+- [https://www.indiegogo.com/admin](https://www.indiegogo.com/admin)
+
 ### KickStarter
 - [https://www.kickstarter.com/profile/znak/](https://www.kickstarter.com/profile/znak/)
