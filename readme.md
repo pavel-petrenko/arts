@@ -1,9 +1,11 @@
 Zenith of Neuro Art Kingdom (ZNAK) Project
 ===
 
-## Mystery Dreams Studio (MDS) Shop
+> ...
+> Just list of useful links and other project information
+> ...
 
-  > Just list of useful links and other project information
+## Mystery Dreams Studio (MDS) Shop
 
 ### GitHub Repo
 - [https://github.com/pavel-petrenko/arts](https://github.com/pavel-petrenko/arts)
