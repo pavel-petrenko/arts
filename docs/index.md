@@ -25,7 +25,7 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 ### Indiegogo
 - [https://www.indiegogo.com/admin](https://www.indiegogo.com/admin)
 
-  ![QR Code with link to https://www.indiegogo.com/admin/](https://git.znak.club/QR_Code_for__indiegogo__.svg)
+  ![QR Code with link to https://www.indiegogo.com/admin/](https://git.znak.club/QR_Code_for__Indiegogo__.svg)
 
 
 ### KickStarter
