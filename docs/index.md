@@ -40,7 +40,7 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 ### Stripe Donation - Support & Tutoring 
 - [https://buy.stripe.com/9B628q6cXfKA4LCciNdAk01](https://buy.stripe.com/9B628q6cXfKA4LCciNdAk01)
 
-  ![QR Code with link to https://buy.stripe.com/9B628q6cXfKA4LCciNdAk01](https://git.znak.club/QR_Code_for__Stripe_Donation__.png)
+  ![QR Code with link to https://buy.stripe.com/9B628q6cXfKA4LCciNdAk01](https://git.znak.club/QR_Code_for__Stripe_Donation2__.png)
 
 
 ### Stripe Subscription - Support & Tutoring 
