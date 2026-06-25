@@ -24,6 +24,7 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 
   ![QR Code with link to https://gofund.me/ae0f060bf](https://git.znak.club/QR_Code_for_gofund.me__.svg)
 
+
 ### Indiegogo
 - [https://www.indiegogo.com/admin](https://www.indiegogo.com/admin)
 
@@ -35,9 +36,19 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 
   ![QR Code with link to https://www.kickstarter.com/profile/znak/](https://git.znak.club/QR_Code_for__kickstarter__.svg)
 
-### Stripe Support & Tutoring
+
+### Stripe Donation - Support & Tutoring 
 - [https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00)
 
   ![QR Code with link to https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://git.znak.club/QR_Code_for__Stripe_Donation__.png)
+
+
+### Stripe Subscription - Support & Tutoring 
+- [https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00)
+
+  ![QR Code with link to https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://git.znak.club/QR_Code_for__Stripe_Subscription__.png)
+
+
+
 
 
