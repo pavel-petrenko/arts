@@ -18,7 +18,7 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 ### Etsy Shop
 - [https://MysteryDreamsStudio.etsy.com](https://mysterydreamsstudio.etsy.com/)
   
-- [https://etsy.znak.club](https://etsy.znak.clug)
+- [https://etsy.znak.club](https://etsy.znak.club)
 
   ![QR Code with link to https://mysterydreamsstudio.etsy.com/](https://git.znak.club/QR_Code_for__mysterydreamsstudio.etsy.com__.svg)
 
@@ -51,6 +51,19 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 - [https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00)
 
   ![QR Code with link to https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://git.znak.club/QR_Code_for__Stripe_Subscription__.png)
+
+
+# MISC
+
+### Food Project
+- [https://znak.club](https://znak.club)
+- [https://znak.llc](https://znak.llc)
+- [https://znak.ooo](https://znak.ooo)
+- [https://xakep.dev](https://xakep.dev)
+- [https://food.znak.club](https://food.znak.club)
+
+
+
 
 
 
