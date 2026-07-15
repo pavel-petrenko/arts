@@ -14,6 +14,8 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
   
 - [http://artsy.znak.club/](http://artsy.znak.club/)
 
+  ![QR Code with link to https://www.artsy.net/artist/pavel-petrenko/](https://git.znak.club/QR_Code_for__Artsy__.svg)
+
 
 ### Etsy Shop
 - [https://MysteryDreamsStudio.etsy.com](https://mysterydreamsstudio.etsy.com/)
