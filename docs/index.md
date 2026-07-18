@@ -56,13 +56,13 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 
 
 # GIST
-[https://gist.github.com/pavel-petrenko](https://gist.github.com/pavel-petrenko)
-[http://gist.znak.club](http://gist.znak.club)
+- [https://gist.github.com/pavel-petrenko](https://gist.github.com/pavel-petrenko)
+- [http://gist.znak.club](http://gist.znak.club)
 
 
 # BLOG
-[https://art-2026-pablo.blogspot.com/?m=1](https://art-2026-pablo.blogspot.com/?m=1)
-[http://blog.znak.club](http://blog.znak.club)
+- [https://art-2026-pablo.blogspot.com/?m=1](https://art-2026-pablo.blogspot.com/?m=1)
+- [http://blog.znak.club](http://blog.znak.club)
 
 
 # Food Project
