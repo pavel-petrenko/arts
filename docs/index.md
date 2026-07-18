@@ -1,6 +1,10 @@
 Zenith of Neuro Art Kingdom (ZNAK) Project
 ===
 
+## Google Search Console
+
+- [https://search.google.com/search-console/welcome](https://search.google.com/search-console/welcome)
+
 ## Mystery Dreams Studio (MDS) Shop
 
 ### Official Site
