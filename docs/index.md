@@ -56,29 +56,24 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 
 
 # GIST
-
 [https://gist.github.com/pavel-petrenko](https://gist.github.com/pavel-petrenko)
-
 [http://gist.znak.club](http://gist.znak.club)
 
 
 # BLOG
-
 [https://art-2026-pablo.blogspot.com/?m=1](https://art-2026-pablo.blogspot.com/?m=1)
-
 [http://blog.znak.club](http://blog.znak.club)
 
 
-
-# MISC
-
-### Food Project
-- [https://www.znak.club](https://www.znak.club)
-- [https://www.znak.llc](https://www.znak.llc)
-- [https://www.znak.ooo](https://www.znak.ooo)
-- [https://www.xakep.dev](https://www.xakep.dev)
+# Food Project
 - [https://food.znak.club](https://food.znak.club)
 
+
+### ROOT DNS 
+- [http://znak.club](http://znak.club)
+- [http://znak.llc](http://znak.llc)
+- [http://znak.ooo](http://znak.ooo)
+- [http://xakep.dev](http://xakep.dev)
 
 
 
