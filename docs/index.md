@@ -59,17 +59,17 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
   ![QR Code with link to https://buy.stripe.com/4gM00i44PgOE7XO2IddAk00](https://git.znak.club/QR_Code_for__Stripe_Subscription__.png)
 
 
-# GIST
+### GIST
 - [https://gist.github.com/pavel-petrenko](https://gist.github.com/pavel-petrenko)
 - [http://gist.znak.club](http://gist.znak.club)
 
 
-# BLOG
+### BLOG
 - [https://art-2026-pablo.blogspot.com/?m=1](https://art-2026-pablo.blogspot.com/?m=1)
 - [http://blog.znak.club](http://blog.znak.club)
 
 
-# Food Project
+### Food Project
 - [https://food.znak.club](https://food.znak.club)
 
 
