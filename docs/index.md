@@ -70,7 +70,7 @@ Zenith of Neuro Art Kingdom (ZNAK) Project
 
 
 ### ROOT DNS 
-- [www.znak.club](www.znak.club)
+- [//www.znak.club/](//www.znak.club/)
 - [https://www.znak.llc](https://www.znak.llc)
 - [https://www.znak.ooo](https://www.znak.ooo)
 - [https://www.xakep.dev](https://www.xakep.dev)
